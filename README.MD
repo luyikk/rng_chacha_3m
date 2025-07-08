@@ -1,7 +1,7 @@
-how to install rust:
+## how to install rust:
 https://www.rust-lang.org/tools/install
 
-how to build and run
+## how to build and run
 ```
 git clone https://github.com/luyikk/rng_chacha_3m.git
 cd rng_chacha_3m
@@ -9,7 +9,7 @@ cargo run
 ```
 output.csv is 3m rng number
 
-how to use rust chacha20:
+## how to use rust chacha20:
 ```rust
 /// This example demonstrates how to use the ChaCha20 random number generator
 /// to generate random numbers and shuffle a vector.
